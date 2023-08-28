@@ -1,3 +1,5 @@
+import { ReactNode } from 'react';
+
 export type SocialIconsNameType =
   | 'facebook'
   | 'github'
@@ -9,6 +11,7 @@ export type SocialIconsNameType =
   | 'discord';
 
 export interface EventInterface {
+  name: ReactNode;
   id: number;
   title: string;
   description: string;
