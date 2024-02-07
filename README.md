@@ -113,7 +113,7 @@ Visit https://localhost:3000 in your web browser to access the <Vibey/> applicat
 
 ## 👥 Issues for Contributors
 
-Are you looking for ways to contribute to `<Vibey/>`? Here are few issues you can work on as part of the GSSoC (GirlScript Summer of Code) program:
+Are you looking for ways to contribute to `<Vibey/>`? Here are few issues you can work on:
 
 ### Level 3 Issues
 
@@ -147,14 +147,13 @@ More will be added soon.
 
 > **Note**: New to open source contributions? check out [how-to-contribute](https://opensource.guide/how-to-contribute/) guide by Github
 
-## 👥 Core Team
+## 👥 Team
 
-The core team members working on `<Vibey/>` are:
+The team members working on `<Vibey/>` are:
 
 - [Deependra Kumar](https://github.com/Deepu178)
 - [Manish Tyagi](https://github.com/money8203)
 - [Chandraprakash Darji](https://github.com/Chandraprakash-Darji)
-- [Kirtika Goyal](https://github.com/Kirtikagoyal)
 
 ## Code of Conduct
 
